@@ -8,3 +8,7 @@ Modified based on the official Iris Case: [https://github.com/keebio/iris-case](
 
 - Not compatible with Alps switches
 - Only supports 4 thumb keys
+
+## License
+
+MIT
